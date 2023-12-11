@@ -1,0 +1,31 @@
+body {
+    background-color: aquamarine;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+}
+.header_div{
+    background-color: blueviolet;
+    text-decoration-color: peru;
+}
+.header_div p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 13px;
+}
+.main_div button{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+.copy_rightfooter{
+    background-color:pink;
+    text-decoration-color: palevioletred;
+    width: 100%;
+    font-size: medium;
+    line-height: 3;
+    text-shadow: purple;
+    position: fixed;
+    bottom: 0;
+}
